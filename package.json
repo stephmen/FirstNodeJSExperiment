@@ -1,0 +1,21 @@
+{
+  "name": "math_example_stephmen22",
+  "version": "0.0.1",
+  "description": "An example of creating a package",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/stephmen/FirstNodeJSExperiment.git",
+  "keywords": [
+    "math",
+	"example",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+	"fibonacci"
+  ],
+  "author": "stephmen",
+  "license": "BSD"
+}
